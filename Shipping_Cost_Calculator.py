@@ -1,4 +1,5 @@
  # Voici une nouvelle mise à jour par amalfamous
+# Here is another update by amalfamous
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
